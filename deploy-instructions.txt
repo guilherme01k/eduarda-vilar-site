@@ -1,0 +1,51 @@
+🚀 GUIA RÁPIDO PARA COLOCAR O SITE NO AR
+
+📋 O QUE VOCÊ PRECISA:
+1. Conta no GitHub (gratuita)
+2. Todos os arquivos do site na pasta
+
+🔥 PASSO A PASSO (5 minutos):
+
+1️⃣ ENTRE NO GITHUB
+   • Vá para github.com
+   • Faça login ou crie conta
+
+2️⃣ CRIE REPOSITÓRIO
+   • Clique em "+" → "New repository"
+   • Nome: eduarda-vilar-site
+   • Marque "Public"
+   • Clique "Create repository"
+
+3️⃣ FAÇA UPLOAD DOS ARQUIVOS
+   • Clique "Add file" → "Upload files"
+   • Arraste TODOS os arquivos:
+     - index.html
+     - styles.css
+     - script.js
+     - README.md
+     - E TODAS as pastas de imagens
+   • Clique "Commit changes"
+
+4️⃣ ATIVE O SITE
+   • Vá em "Settings"
+   • Clique em "Pages" no menu lateral
+   • Em "Source" escolha "Deploy from a branch"
+   • Branch: main
+   • Pasta: / (root)
+   • Clique "Save"
+
+5️⃣ PRONTO! 🎉
+   • Aguarde 2-3 minutos
+   • Seu site estará no ar em:
+   • https://seu-usuario.github.io/eduarda-vilar-site/
+
+⚠️ IMPORTANTE:
+• Mantenha a estrutura exata das pastas
+• Não renomeie os arquivos
+• Todas as imagens precisam ser enviadas
+
+📞 SE PRECISAR DE AJUDA:
+• O README.md tem instruções detalhadas
+• O site já está 100% funcional
+
+Seu site ficará no ar GRATUITAMENTE para sempre!
