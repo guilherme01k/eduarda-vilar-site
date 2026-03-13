@@ -1,0 +1,26 @@
+📁 ARQUIVOS PARA UPLOAD NO GITHUB
+
+✅ USE APENAS ESTES ARQUIVOS (pasta raiz):
+
+📄 ARQUIVOS PRINCIPAIS:
+- index.html
+- styles.css
+- script.js
+- README.md
+- deploy-instructions.txt
+
+🖼️ IMAGENS (arquivos individuais):
+- logo.jpg
+- certificado.png
+- unhas.jpg
+- alongamento.png
+
+❌ NÃO ENVIE AS PASTAS ANTIGAS:
+- logo.png/ (pasta)
+- certificado.jpg/ (pasta)
+- hero-bg.jpg/ (pasta)
+- unhas-vermelhas.jpg/ (pasta)
+- alongamento.jpg/ (pasta)
+
+🎯 RESULTADO FINAL:
+Seu site funcionará perfeitamente no GitHub Pages com todas as imagens!

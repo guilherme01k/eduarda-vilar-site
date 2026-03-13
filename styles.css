@@ -344,8 +344,8 @@ body {
 /* Services Section */
 .services {
     padding: 100px 0;
-    background: linear-gradient(135deg, rgba(255, 238, 248, 0.3) 0%, rgba(255, 255, 255, 0.5) 100%),
-                url('unhas-vermelhas.jpg/asdasd.PNG') center/cover no-repeat;
+    background: linear-gradient(135deg, rgba(255, 107, 157, 0.3) 0%, rgba(255, 255, 255, 0.5) 100%),
+                url('unhas.jpg') center/cover no-repeat;
     background-attachment: fixed;
     background-size: cover;
     position: relative;
@@ -387,13 +387,13 @@ body {
 
 .service-card.gel-service {
     background: linear-gradient(135deg, rgba(255, 107, 157, 0.9), rgba(255, 159, 243, 0.8)),
-                url('unhas-vermelhas.jpg/asdasd.PNG') center/cover no-repeat;
+                url('unhas.jpg') center/cover no-repeat;
     color: var(--white);
 }
 
 .service-card.stretching-service {
     background: linear-gradient(135deg, rgba(255, 107, 157, 0.9), rgba(255, 159, 243, 0.8)),
-                url('alongamento.jpg/sssssss.PNG') center/cover no-repeat;
+                url('alongamento.png') center/cover no-repeat;
     color: var(--white);
 }
 
