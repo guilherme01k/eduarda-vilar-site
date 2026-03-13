@@ -8,6 +8,7 @@
 - script.js
 - README.md
 - deploy-instructions.txt
+- arquivos-para-upload.txt
 
 🖼️ IMAGENS (arquivos individuais):
 - logo.jpg
@@ -24,3 +25,8 @@
 
 🎯 RESULTADO FINAL:
 Seu site funcionará perfeitamente no GitHub Pages com todas as imagens!
+
+⚠️ IMPORTANTE:
+- Faça upload APENAS dos arquivos listados acima
+- Não envie nenhuma pasta
+- Mantenha os nomes exatos
